@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="cloze">
+    <name>
+      <text>Impresión en Python</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[El comando para imprimir en Python es: print({1:SHORTANSWER:%100%Hola, Mundo!})]]></text>
+    </questiontext>
+  </question>
+
+  <question type="cloze">
+    <name>
+      <text>Declaración de arreglo</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Para declarar un arreglo unidimensional usamos la sintaxis: mi_arreglo = [{1:SHORTANSWER:%100%0, 1, 2, 3}]]]></text>
+    </questiontext>
+  </question>
+
+  <question type="cloze">
+    <name>
+      <text>Definición de función</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Una función en Python se define con la palabra clave {1:SHORTANSWER:%100%def} seguida del nombre de la función.]]></text>
+    </questiontext>
+  </question>
+
+  <question type="cloze">
+    <name>
+      <text>Uso de procedimientos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Un procedimiento en Python no retorna un valor, por lo tanto, usamos {1:SHORTANSWER:%100%pass} en lugar de return.]]></text>
+    </questiontext>
+  </question>
+
+  <question type="cloze">
+    <name>
+      <text>Acceso a elementos de arreglo</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Para acceder al tercer elemento de un arreglo llamado numeros, escribimos: numeros[{1:SHORTANSWER:%100%2}].]]></text>
+    </questiontext>
+  </question>
+</quiz>
