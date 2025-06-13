@@ -1,0 +1,142 @@
+[
+  {
+    "numero": 1,
+    "nombre": "MARTÍN TAROCO ANTUNEZ",
+    "resolucion": "Entrega en GitHub con ejemplos de listas y verdulería; usa append, remove, sort, sum(), max() y min().",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Entrega correcta, enlaces accesibles y métodos evidenciados."
+  },
+  {
+    "numero": 2,
+    "nombre": "CAMILA DANIELA FLEITAS PEREZ",
+    "resolucion": "Describe dificultad entre sort() y sorted(); usa sorted(reverse=True) y muestra listas en GitHub.",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Reflexión adecuada y respuesta completa a la consigna."
+  },
+  {
+    "numero": 3,
+    "nombre": "JUAN VIVIANO",
+    "resolucion": "Notebook con desarrollo de la tarea y enlace funcional en GitHub.",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Entrega pertinente en formato notebook."
+  },
+  {
+    "numero": 4,
+    "nombre": "PEDRO MARTÍN ROSSI QUINTANA",
+    "resolucion": "Repositorio con gestión de inventario usando remove, pop, extend, append, sort y copy; cuenta productos con len().",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Explica pasos y lógica de forma completa, enlace funcional."
+  },
+  {
+    "numero": 5,
+    "nombre": "DANIEL GERMAN MENDOZA GONZALEZ",
+    "resolucion": "Reflexiona sobre variables y estructuras; comparte repositorio con ejemplos de promedios y listas.",
+    "calificacion": { "total": 22, "detalle": [6,6,5,5] },
+    "comentarios": "Entrega con reflexión personal; podría profundizar en detalles de cada desafío."
+  },
+  {
+    "numero": 6,
+    "nombre": "DANIELA BAEZ",
+    "resolucion": "Enlaces a soluciones de promedios y verdulería usando sum(), max(), min(), pop, remove, extend, append y sort().",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Cumple requisitos y enlaza correctamente las tareas."
+  },
+  {
+    "numero": 7,
+    "nombre": "FEDERICO EFRAIN LACLAU CENTURION",
+    "resolucion": "Repositorio con cálculo de promedio y extremos usando sum(), len(), min(), max(); aplica inventario de verdulería con len() e índices.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Evidencia resolución y reflexión personal; se pueden agregar más comentarios."
+  },
+  {
+    "numero": 8,
+    "nombre": "VICTORIA CALCATERRA CENTANARO",
+    "resolucion": "Notebook que resuelve los desafíos; referencia al material de ventas para hallar nota mínima y máxima.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Entrega pertinente y con referencia al material de clase."
+  },
+  {
+    "numero": 9,
+    "nombre": "GRACIELA BERIO",
+    "resolucion": "Describe validación de notas con while y try-except para asegurar valores entre 1 y 10.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Buena solución enfocada en la validación de datos."
+  },
+  {
+    "numero": 10,
+    "nombre": "RUBEN SAMURIO",
+    "resolucion": "Repositorio con lista de notas para promedio usando len() y round(); maneja inventario con append() y muestra stock.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Aplica funciones y métodos solicitados; enlace funcional."
+  },
+  {
+    "numero": 11,
+    "nombre": "TATIANA ERNST",
+    "resolucion": "Notebook ordena lista de libros sin alterar la original; crea copia y organiza por género; código comentado.",
+    "calificacion": { "total": 24, "detalle": [6,6,6,6] },
+    "comentarios": "Reflexión y extensión del desafío opcional bien documentadas."
+  },
+  {
+    "numero": 12,
+    "nombre": "NÉSTOR BENTABERRY (Néstor)",
+    "resolucion": "Comparte cuaderno con soluciones completas a los desafíos propuestos.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Entrega resuelve lo solicitado y enlaza correctamente."
+  },
+  {
+    "numero": 13,
+    "nombre": "MARÍA FABIANA RODRÍGUEZ CAMETO",
+    "resolucion": "Incluye dos notebooks en GitHub y comenta la dificultad de recordar índices desde 0.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Aporta reflexión sobre la dificultad encontrada y enlaces funcionales."
+  },
+  {
+    "numero": 14,
+    "nombre": "ROMINA YANET ACOSTA CENTURIÓN",
+    "resolucion": "Explica uso de sum(), min(), max() y sorted() para resolver los desafíos sin modificar la lista original.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Justifica los métodos utilizados; entrega adecuada."
+  },
+  {
+    "numero": 15,
+    "nombre": "MATHÍAS DE LEÓN",
+    "resolucion": "Detalla enlaces a ejercicios de verdulería y control de notas; usa pop() para gestionar espacio y append() para agregar productos.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Describe bien el proceso y la dificultad principal."
+  },
+  {
+    "numero": 16,
+    "nombre": "MATEO INDART VEGA",
+    "resolucion": "Enlace a repositorio; calcula promedio con sum()/len() y usa min() y max(); ordena sin modificar la lista con sorted().",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Cubre desafío obligatorio y optativo; enlace válido."
+  },
+  {
+    "numero": 17,
+    "nombre": "STEFANIA GONZÁLEZ SOTO",
+    "resolucion": "Gist con código documentado; usa sum(), min() y max(); verifica datos completos antes de operar.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Buen proceso y comprensión mostrada en el código."
+  },
+  {
+    "numero": 18,
+    "nombre": "JAVIER MARCELO FERNANDEZ LAMS",
+    "resolucion": "Notebook en Colab y repositorio adicional; comenta la dificultad para simplificar la solución.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Demuestra esfuerzo y perseverancia; enlaces operativos."
+  },
+  {
+    "numero": 19,
+    "nombre": "YENY VALERIA OLIVERA MOLINA",
+    "resolucion": "Entrega un archivo de notebook (Archivo3_7_Arreglos_1.ipynb).",
+    "calificacion": { "total": 22, "detalle": [6,6,5,5] },
+    "comentarios": "Entrega en notebook sin más detalles; se podría ampliar explicación."
+  },
+  {
+    "numero": 20,
+    "nombre": "MARIA COLLAZO",
+    "resolucion": "Repositorio con inventario de verdulería en GitHub.",
+    "calificacion": { "total": 23, "detalle": [6,6,6,5] },
+    "comentarios": "Entrega cumple con lo pedido y enlaza correctamente."
+  }
+]
