@@ -1,7 +1,52 @@
 # Actividad 3.7 - Matrices
 
-**Descripción de la actividad:**\
-Resolver los desafíos relacionados con matrices indicados en la consigna de clase.
+**Descripción de la actividad:**
+# Desafío 1: Gestión del Stock de la Verdulería
+
+Administra el inventario de una verdulería usando una lista en Python.
+
+* Comienza con:
+
+  ```python
+  inventario = ["manzanas", "bananas", "zanahorias", "espinacas", "brocoli", "cebolla", "kiwis"]
+  ```
+* **Preguntas:**
+
+  1. ¿Cuántos productos hay en el inventario?
+  2. ¿Qué producto está en la tercera posición?
+  3. Actualiza el inventario si se venden todas las bananas.
+  4. Agrega "frutillas", "apio" y "papas" al inventario.
+  5. Verifica si "papas" está en el inventario.
+  6. Si solo puedes tener 7 productos, ¿cómo harías lugar para agregar "dragonfruit"?
+  7. Ordena el inventario alfabéticamente.
+  8. Crea una copia del inventario para un nuevo empleado (sin que afecte al original).
+
+---
+
+# Desafío 2: Ordenar el Inventario de Libros
+
+Organiza una lista de códigos de libros en orden decreciente **sin modificar la lista original**.
+
+* Usa la función `sorted()`.
+* Explica por qué es importante no cambiar la lista original y por qué no usar el método `sort()` directamente.
+
+---
+
+# Desafío 3: Caracteres ASCII
+
+Dada una lista de números, muestra los caracteres ASCII correspondientes usando la función `chr()` en Python.
+
+---
+
+# Desafío 4: Control de Notas de Estudiantes
+
+Trabaja con las notas de la clase.
+
+* Permite ingresar todas las notas de los estudiantes.
+* **Preguntas:**
+
+  1. Calcula el promedio de la clase.
+  2. Encuentra la nota más baja y la más alta.
 
 ---
 
@@ -9,66 +54,432 @@ Resolver los desafíos relacionados con matrices indicados en la consigna de cla
 
 ---
 
-### 1. Nombre: Juan Pérez
+### 1. Nombre: Acosta Romina
 
-**Resolución:**
+**Resolución:** no realiza
 
-```python
-# Ejemplo de código de Juan
-matriz = [[1, 2], [3, 4]]
-print(sum(matriz[0]) + sum(matriz[1]))
-```
+**Calificación:** 0/24 [0,0,0,0]
 
-**Calificación:** 9
-
-**Comentarios:**
-
-- Resolución correcta, código funcional.
-- Buen uso de sumas parciales.
-- Podría mejorar la presentación de resultados.
+**Comentarios:** No realiza. lo usaremos como plantilla
 
 ---
 
-### 2. Nombre: Ana Gómez
+### 2. Nombre: Alves Miriam
 
-**Resolución:**
+**Resolución:** no realiza
 
-```python
-# Ejemplo de código de Ana
-matriz = [[5, 6], [7, 8]]
-total = 0
-for fila in matriz:
-    for valor in fila:
-        total += valor
-print(total)
-```
+**Calificación:** 0/24 [0,0,0,0]
 
-**Calificación:** 10
-
-**Comentarios:**
-
-- Excelente resolución, bien documentado.
-- Utilizó correctamente bucles anidados.
-- Resultado correcto y bien explicado.
+**Comentarios:** No realiza. lo usaremos como plantilla
 
 ---
 
-### 3. Nombre: Luis Torres
+### 3. Nombre: Aparicio Lourdes
 
-**Resolución:**
+**Resolución:** no realiza
 
-```python
-# Ejemplo de código de Luis
-matriz = [[2, 2], [2, 2]]
-resultado = sum([sum(fila) for fila in matriz])
-print(resultado)
-```
+**Calificación:** 0/24 [0,0,0,0]
 
-**Calificación:** 8
+**Comentarios:** No realiza. lo usaremos como plantilla
 
-**Comentarios:**
+---
 
-- Solución correcta pero faltó comentar el código.
-- Código sintético y funciona bien.
+### 4. Nombre: Baez Daniela
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 5. Nombre: Bastida Carolina
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 6. Nombre: Benítez Micaela
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 7. Nombre: Bentaberry Néstor
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 8. Nombre: Berio Graciela
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 9. Nombre: Calcaterra Victoria
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 10. Nombre: Cayrus Renzo
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 11. Nombre: Collazo María
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 12. Nombre: De León Mathías
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 13. Nombre: Ernst Tatiana
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 14. Nombre: Etcheverry Verónica
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 15. Nombre: Fernandez Javier
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 16. Nombre: Fernández Diego
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 17. Nombre: Ferreyra Juan
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 18. Nombre: Fleitas Camila
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 19. Nombre: González Stefanía
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 20. Nombre: Indart Mateo
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 21. Nombre: Laclau Federico
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 22. Nombre: Machado Belén
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 23. Nombre: Mallo Fiorella
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 24. Nombre: Marcelino Luis
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 25. Nombre: Mendoza Daniel
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 26. Nombre: Mora Santino
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 27. Nombre: Moreira Rodrigo
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 28. Nombre: Oliver Laura
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 29. Nombre: Olivera Ana
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 30. Nombre: Olivera Yeny
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 31. Nombre: Peluffo Sofia
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 32. Nombre: Ramos Carolina
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 33. Nombre: Reyes Lorena
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 34. Nombre: Rodriguez Maria
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 35. Nombre: Rodriguez Nicolas
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 36. Nombre: Rossi Pedro
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 37. Nombre: Samurio Ruben
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 38. Nombre: Sobrera Gerardo
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 39. Nombre: Soto en crea
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 40. Nombre: Taroco Martin
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 41. Nombre: Viazzi Andrea
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 42. Nombre: Viera Stefanie
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
+
+---
+
+### 43. Nombre: Viviano Juan
+
+**Resolución:** no realiza
+
+**Calificación:** 0/24 [0,0,0,0]
+
+**Comentarios:** No realiza. lo usaremos como plantilla
 
 ---
