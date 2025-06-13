@@ -8,7 +8,10 @@ Only run the evaluation workflow when the user's request explicitly includes the
 
 When asked to evaluate student submissions located in `Evaluaciones/Programacion1_Semi_2025` with names that follow the pattern `3_7_actividad_est.md`, produce a consolidated file named `3_7_actividad.md` in the same folder. Use the following steps:
 
-1. Identify the complete list of students provided in the request or available roster. Ensure that every student appears in the final file, even if they did not submit a solution.
+1. Identify the complete list of students. Use the roster in
+   `Evaluaciones/Programacion1_Semi_2025/estudiantes.txt` if the request does
+   not specify one. Ensure that every student appears in the final file, even if
+   they did not submit a solution.
 2. For each student file:
    - Extract the student's code and any comments.
    - Evaluate the solution according to the rubric in this file.
