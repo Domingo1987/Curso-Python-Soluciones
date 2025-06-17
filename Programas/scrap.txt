@@ -133,7 +133,7 @@
                     <a class="ext  sExtlink-processed" target="_blank" href="/link?a=&amp;path=https%3A%2F%2Fgithub.com%2FJuanviviano%2FProgrmacion%2Fblob%2Fmaster%2F3_7_Arreglos%2520Juan%2520Viviano.ipynb&amp;nid=" alt="Trabajo 3.4" title="Trabajo 3.4">Trabajo 3.4</a>
                  </div>
             
-     <div class="attachments-link-summary">
+     <div class="attachments-link-summary"  >
        <div class="small gray">https://github.com/Juanviviano/Progrmacion/blob/master/3_7_Arreglos%20Juan%20Viviano.ipynb</div>
      </div>
             <p class="small gray"></p>
