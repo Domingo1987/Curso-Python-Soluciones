@@ -1,8 +1,9 @@
-import json
 import os
 import sys
-from openai import OpenAI
 from dotenv import load_dotenv
+
+from patterns.evaluators import eval_tarea_chat
+from services.file_service import read_json, write_json
 
 if len(sys.argv) != 3:
     print("Uso: python evaluar_tareas.py archivo_entrada.json archivo_salida.json")
@@ -18,21 +19,13 @@ archivo_salida = ruta_curso(sys.argv[2])
 
 # Carga variables de entorno
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
-if not api_key:
-    raise ValueError("No se encontró OPENAI_API_KEY. Agrégalo a .env o usa export.")
-
-# Instancia del cliente
-client = OpenAI(api_key=api_key)
 
 # Verifica que el archivo de entrada exista
 if not os.path.exists(archivo_entrada):
     print(f"Error: No se encontró el archivo de entrada: {archivo_entrada}")
     sys.exit(1)
 
-# Carga el JSON de evaluaciones desde la ruta indicada
-with open(archivo_entrada, "r", encoding="utf-8") as f:
-    evaluaciones = json.load(f)
+evaluaciones = read_json(archivo_entrada)
 
 SYSTEM_PROMPT = """
 Sos un asistente educativo de evaluación.
@@ -70,56 +63,6 @@ Condiciones adicionales:
 - El comentario debe ser claro, breve y específico sobre la entrega.
 """
 
-def evaluar_con_chat(nombre, resolucion, tarea):
-    input_json = {
-        "nombre": nombre,
-        "resolucion": resolucion,
-        "consigna": tarea
-    }
-    print(f"\n--- Enviando evaluación para: {nombre} ---")
-    print("JSON enviado a OpenAI:")
-    print(json.dumps(input_json, ensure_ascii=False, indent=2))
-
-    user_prompt = f"""Evalúa la siguiente entrega usando la consigna dada por clave, la rúbrica y la resolución. Devuelve solo el JSON requerido.
-
-Datos de la entrega:
-{json.dumps(input_json, ensure_ascii=False, indent=2)}
-"""
-
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o",  # o "gpt-4", "gpt-3.5-turbo"
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt}
-            ],
-            temperature=0
-        )
-        final_msg = response.choices[0].message.content.strip()
-        print(f"Respuesta IA para {nombre}:")
-        print(final_msg)
-
-        # Limpiar markdown si viene así
-        clean_msg = final_msg
-        if "```json" in clean_msg:
-            clean_msg = clean_msg.split("```json")[1].split("```")[0].strip()
-        elif "```" in clean_msg:
-            clean_msg = clean_msg.split("```")[1].split("```")[0].strip()
-
-        resultado = json.loads(clean_msg)
-        if "calificacion" not in resultado:
-            resultado["calificacion"] = {"total": 0, "detalle": [0, 0, 0, 0]}
-        if "comentarios" not in resultado:
-            resultado["comentarios"] = "Evaluación completada"
-        return resultado
-
-    except Exception as e:
-        print(f"[ERROR] Problema evaluando '{nombre}': {e}")
-        return {
-            "nombre": nombre,
-            "calificacion": {"total": 0, "detalle": [0, 0, 0, 0]},
-            "comentarios": f"Error en evaluación automática: {str(e)}"
-        }
 
 # Procesar evaluaciones
 print(f"Procesando {len(evaluaciones)} evaluaciones...")
@@ -134,7 +77,7 @@ for i, entrega in enumerate(evaluaciones, 1):
         continue
 
     tarea = entrega.get("tarea") or entrega.get("consigna") or "3_7_tarea1"
-    resultado = evaluar_con_chat(entrega["nombre"], entrega["resolucion"], tarea)
+    resultado = eval_tarea_chat(entrega["nombre"], entrega["resolucion"], tarea, SYSTEM_PROMPT)
 
     entrega["calificacion"] = resultado.get("calificacion", {"total": 0, "detalle": [0, 0, 0, 0]})
     entrega["comentarios"] = resultado.get("comentarios", "")
@@ -143,9 +86,7 @@ for i, entrega in enumerate(evaluaciones, 1):
 
 # Guardar resultados
 try:
-    os.makedirs(os.path.dirname(archivo_salida), exist_ok=True)
-    with open(archivo_salida, "w", encoding="utf-8") as f:
-        json.dump(evaluaciones, f, ensure_ascii=False, indent=2)
+    write_json(archivo_salida, evaluaciones)
     print(f"\n🎉 Evaluación IA terminada. Archivo guardado: {archivo_salida}")
 except Exception as e:
     print(f"❌ Error guardando archivo: {e}")
