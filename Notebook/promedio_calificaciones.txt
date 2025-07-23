@@ -1,0 +1,1 @@
+El promedio de las calificaciones es: 8.0

@@ -1,0 +1,29 @@
+# Archivos
+## [0.1_Comenzando_Python.ipynb](0.1_Comenzando_Python.ipynb) - 0 Desafíos
+## [0.2_entornos_virtuales.ipynb](0.2_entornos_virtuales.ipynb) - 0 Desafíos
+## [1_1_Introduccion_a_la_programacion.ipynb](1_1_Introduccion_a_la_programacion.ipynb) - 2 Desafíos
+## [1_2_Resolucion_de_problemas_y_algoritmos.ipynb](1_2_Resolucion_de_problemas_y_algoritmos.ipynb) - 2 Desafíos
+## [1_3_Estrategias_de_resolucion_de_problemas.ipynb](1_3_Estrategias_de_resolucion_de_problemas.ipynb) - 0 Desafíos
+## [2_4_Tipos_de_datos_y_operadores.ipynb](2_4_Tipos_de_datos_y_operadores.ipynb) - 5 Desafíos
+## [2_5_Entrada_y_Salida_de_datos.ipynb](2_5_Entrada_y_Salida_de_datos.ipynb) - 5 Desafíos
+## [2_6_Estructuras_de_control.ipynb](2_6_Estructuras_de_control.ipynb) - 3 Desafíos
+## [3_7_Arreglos.ipynb](3_7_Arreglos.ipynb) - 4 Desafíos
+## [3_7_Matrices.ipynb](3_7_Matrices.ipynb) - 6 Desafíos
+## [3_8_Funciones.ipynb](3_8_Funciones.ipynb) - 6 Desafíos
+## [3_8_Modulos.ipynb](3_8_Modulos.ipynb) - 5 Desafíos
+## [3_9_Recursividad.ipynb](3_9_Recursividad.ipynb) - 4 Desafíos
+## [4_10_TAD.ipynb](4_10_TAD.ipynb) - 3 Desafíos
+## [4_11_Introduccion_objetos.ipynb](4_11_Introduccion_objetos.ipynb) - 0 Desafíos
+## [4_12_Clases_y_objetos.ipynb](4_12_Clases_y_objetos.ipynb) - 5 Desafíos
+## [4_13_Encapsulamiento.ipynb](4_13_Encapsulamiento.ipynb) - 5 Desafíos
+## [4_13_Herencia.ipynb](4_13_Herencia.ipynb) - 5 Desafíos
+## [4_13_Polimorfirmo.ipynb](4_13_Polimorfirmo.ipynb) - 5 Desafíos
+## [5_14_Excepciones.ipynb](5_14_Excepciones.ipynb) - 5 Desafíos
+## [5_15_Arboles.ipynb](5_15_Arboles.ipynb) - 5 Desafíos
+## [5_15_Listas.ipynb](5_15_Listas.ipynb) - 5 Desafíos
+## [5_16_Algoritmos_fundamentales.ipynb](5_16_Algoritmos_fundamentales.ipynb) - 5 Desafíos
+## [5_17_Manejo_de_archivos.ipynb](5_17_Manejo_de_archivos.ipynb) - 5 Desafíos
+## [6_1_Coleccion.ipynb](6_1_Coleccion.ipynb) - 8 Desafíos
+## [6_2_Extra_random.ipynb](6_2_Extra_random.ipynb) - 3 Desafíos
+## [Extra_colorama.ipynb](Extra_colorama.ipynb) - 0 Desafíos
+# El número Total de Desafíos es 101
