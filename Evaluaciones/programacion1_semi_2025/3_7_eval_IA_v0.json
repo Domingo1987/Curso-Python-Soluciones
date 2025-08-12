@@ -1,0 +1,647 @@
+[
+  {
+    "numero": 1,
+    "nombre": "Acosta Romina",
+    "resolucion": "- \"Para resolver los desafíos utilicé el material de lectura, usando sum, min y max al calcular el promedio. El reto fue realizar la lista sin ser modificada, el método sorted permitió ordenarla sin que se generen alteraciones.\"",
+    "calificacion": {
+      "total": 10,
+      "detalle": {
+        "comprension": 4,
+        "estructura": 3,
+        "funcionalidad": 3,
+        "estrategia": 0
+      }
+    },
+    "comentarios": "La resolución no incluye un código específico, solo una descripción general de la estrategia utilizada. No se puede evaluar la comprensión del problema, la estructura del código, la funcionalidad o la eficiencia sin un código concreto. Se menciona el uso de funciones como sum, min, max y sorted, pero no se proporciona un contexto claro o un ejemplo de implementación."
+  },
+  {
+    "numero": 2,
+    "nombre": "Alves Miriam",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 3,
+    "nombre": "Aparicio Lourdes",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 4,
+    "nombre": "Baez Daniela",
+    "resolucion": "- \"Para solucionar la tarea de promedios de estudiantes utilicé los métodos que subió el profesor al cuaderno sum(), max() y min(). Para la siguiente tarea elegí 'Desafío: inventario de verduleria', utilicé códigos como pop, remove, extend, append, sort que estaban en la tabla en el cuaderno para resolver los desafíos, saludos.\" - Enlace promedios: https://github.com/Dani500-code/Desaf-os-1-y-2/blob/main/Desaf%C3%ADo_4_1y2.py - Enlace verdulería: https://github.com/Dani500-code/Desaf-os-1-y-2/blob/main/Tarea_verduleria_dragonfruit.py",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 1,
+        "estructura": 1,
+        "funcionalidad": 1,
+        "estrategias": 1
+      }
+    },
+    "comentarios": "La resolución no contiene código directamente en el texto proporcionado, sino que se refiere a enlaces externos. No se puede evaluar la comprensión del problema, la estructura y organización del código, la funcionalidad y exactitud, ni el uso de estrategias y eficiencia sin acceso al contenido de los enlaces. Se requiere que el código esté incluido directamente en la entrega para una evaluación completa."
+  },
+  {
+    "numero": 5,
+    "nombre": "Bastida Carolina",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 6,
+    "nombre": "Benítez Micaela",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 7,
+    "nombre": "Bentaberry Néstor",
+    "resolucion": "- https://github.com/nesbenuy/programacion1/blob/main/Cuaderno%203_7_Arreglos.ipynb - \"Comparto mi cuaderno con las soluciones a los desafíos propuestos. Saludos.\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategias": 0
+      }
+    },
+    "comentarios": "La resolución solo contiene un enlace a un repositorio de GitHub, sin incluir directamente el código en la entrega. No se puede evaluar la solución sin acceso al contenido del enlace."
+  },
+  {
+    "numero": 8,
+    "nombre": "Berio Graciela",
+    "resolucion": "- \"Al hacer este ejercicio, uno de los desafíos fue hacer que el usuario pueda cargar las notas manualmente, y que el programa indique el error si alguien escribe algo incorrecto, como una letra o un número fuera de rango. Para resolverlo, usé un while con un try-except, y verifiqué que cada nota esté entre 1 y 10. Así, solo se guardan los datos válidos.\"",
+    "calificacion": {
+      "total": 10,
+      "detalle": {
+        "comprension": 4,
+        "estructura": 1,
+        "funcionalidad": 3,
+        "estrategias": 2
+      }
+    },
+    "comentarios": "La resolución no incluye el código, solo una descripción de la estrategia utilizada. No se puede evaluar completamente la comprensión del problema, la estructura del código, la funcionalidad o la eficiencia sin ver el código real. La descripción sugiere una comprensión básica del problema y una estrategia adecuada, pero se necesita el código para una evaluación completa."
+  },
+  {
+    "numero": 9,
+    "nombre": "Calcaterra Victoria",
+    "resolucion": "- https://github.com/VITOCALCA85/Victoria-Calcaterra/blob/main/3_7_Arreglos%20Victoria%20Calcaterra.ipynb - \"En el desafío 4, en la 2da pregunta acerca de encontrar la nota más baja y más alta, seguí el ejemplo del material sobre venta mensuales, donde hacia referencia al mes donde las ventas habían sido más altas o más bajas.\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategias": 0
+      }
+    },
+    "comentarios": "La resolución contiene un enlace a un repositorio de GitHub, pero no se incluye el código directamente en la entrega. No se puede evaluar la comprensión del problema, la estructura y organización del código, la funcionalidad y exactitud, ni el uso de estrategias y eficiencia sin acceso directo al contenido del enlace. Se recomienda incluir el código directamente en futuras entregas para una evaluación completa."
+  },
+  {
+    "numero": 10,
+    "nombre": "Cayrus Renzo",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 11,
+    "nombre": "Collazo María",
+    "resolucion": "- https://github.com/Ma24co/inventario_de_verduleria.git",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategias": 0
+      }
+    },
+    "comentarios": "La resolución solo contiene un enlace a un repositorio de GitHub. No se puede evaluar el contenido del código ya que no se ha incluido directamente en la entrega. Se requiere que el código esté presente en el texto de la resolución para poder realizar una evaluación adecuada."
+  },
+  {
+    "numero": 12,
+    "nombre": "De León Mathías",
+    "resolucion": "- \"Adjunto los enlaces a los ejercicios: Desafío 1: Gestión del stock de la verdulería y Desafío 4: Control de notas de estudiantes. En el ejercicio 1, el principal reto que afronté fue en la pregunta 6, en la misma se debía decidir qué productos eliminar del inventario para dejar espacio a uno nuevo, respetando el límite de 7 productos. Para solucionar el problema usé el método pop() para eliminar los productos menos vendidos (a mi criterio) en posiciones específicas del arreglo. Luego, agregué dragonfruit con append(). Me aseguré de ajustar los índices correctamente al eliminar múltiples elementos.\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategias": 0
+      }
+    },
+    "comentarios": "La resolución no contiene el código directamente, sino que se refiere a enlaces externos. No se puede evaluar la comprensión del problema, la estructura del código, la funcionalidad ni el uso de estrategias sin acceso al código completo."
+  },
+  {
+    "numero": 13,
+    "nombre": "Ernst Tatiana",
+    "resolucion": "- https://github.com/t4t14n4-hub/TP1/blob/main/Tarea3_7_Arreglos.ipynb - \"Un reto que encontré fue cómo ordenar la lista de libros sin alterar la original, para poder compararlas fácilmente. La solución fue crear una copia de la lista y ordenar esa copia, dejando intacta la lista original. Además, organicé los libros por género en listas separadas. Todo el código está comentado.\"",
+    "calificacion": {
+      "total": 20,
+      "detalle": {
+        "comprension_problema": 8,
+        "estructura_organizacion": 6,
+        "funcionalidad_exactitud": 6,
+        "uso_estrategias_eficiencia": 4
+      }
+    },
+    "comentarios": "El código fue referenciado a través de un enlace. Sin embargo, la descripción indica que se abordaron correctamente los requerimientos del problema, como ordenar una lista sin modificar la original y organizar los libros por género. Además, se menciona que el código está comentado, lo que sugiere una buena estructura y organización."
+  },
+  {
+    "numero": 14,
+    "nombre": "Etcheverry Verónica",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 15,
+    "nombre": "Fernandez Javier",
+    "resolucion": "- https://colab.research.google.com/github/Jamafer/Convertir-Temperaturas/blob/main/3_7_Arreglos.ipynb - https://github.com/Jamafer/entrega-28-de-mayo.git - \"Me costó mucho trabajo poder realizarlo y simplificarlo después.\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategia": 0
+      }
+    },
+    "comentarios": "La resolución no contiene un código directamente evaluable, solo enlaces a repositorios externos. No se puede determinar si el código fue incluido o solo referenciado, por lo que no se puede realizar una evaluación adecuada."
+  },
+  {
+    "numero": 16,
+    "nombre": "Fernández Diego",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 17,
+    "nombre": "Ferreyra Juan",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 18,
+    "nombre": "Fleitas Camila",
+    "resolucion": "- \"Un reto que enfrenté al realizar la tarea fue entender la diferencia entre los métodos sort() y sorted(), al principio pensaba que ambos funcionaban igual, pero me di cuenta que sort() modifica directamente la lista original lo cual no se pedía en el desafío, eso me llevó a pensar con más cuidado en cómo se manipulan los datos en memoria y de la importancia de no alterar los valores originales cuando no corresponde hacerlo.\" - \"La solución que apliqué fue utilizar sorted() con el parámetro reverse=True para ordenar el inventario de libros de forma decreciente, sin modificar la lista original, y también probé el código mostrando ambas listas al final para comprobar que no se modificara la original.\" - \"Una línea relevante del código fue: codigos_ordenados = sorted(codigos_libros, reverse=True) y también print('Lista original:', codigos_libros) print('Lista ordenada (decreciente):', codigos_ordenados) para imprimir las dos listas.\" - Enlace a GitHub: https://github.com/Camila-Fleitas/Tarea-3.7-Arreglos.-Camila-Fleitas.-Programaci-n-I.git",
+    "calificacion": {
+      "total": 22,
+      "detalle": {
+        "comprension": 8,
+        "estructura": 4,
+        "funcionalidad": 6,
+        "estrategia": 4
+      }
+    },
+    "comentarios": "La resolución demuestra una comprensión excelente del problema, identificando correctamente la diferencia entre sort() y sorted() y su impacto en la manipulación de datos. La estructura y organización del código es buena, con comentarios útiles y nombres descriptivos, aunque no se proporciona el código completo en el texto. La funcionalidad es excelente, ya que se describe una solución que cumple con los requerimientos del problema. La estrategia utilizada es eficiente y adecuada, utilizando sorted() con reverse=True para lograr el objetivo sin modificar la lista original. El código fue referenciado a través de un enlace a GitHub, pero no se incluyó directamente en la resolución."
+  },
+  {
+    "numero": 19,
+    "nombre": "González Stefanía",
+    "resolucion": "- https://gist.github.com/gonzalezte/0b5a2fc4f3053ac6fea7d604fc584b11 - \"Uno de los desafíos fue asegurarme de no modificar los datos originales al hacer los cálculos. Para calcular el promedio y encontrar la nota más baja y más alta, usé funciones como sum(), min() y max(). Documenté el código con comentarios para que quede claro qué hace cada parte. Una parte clave fue definir correctamente la lista de notas y verificar que los datos estuvieran completos antes de operar.\"",
+    "calificacion": {
+      "total": 20,
+      "detalle": {
+        "comprension": 8,
+        "estructura": 6,
+        "funcionalidad": 6,
+        "estrategias": 4
+      }
+    },
+    "comentarios": "El código fue referenciado a través de un enlace. La resolución demuestra una comprensión excelente del problema, identificando claramente los requerimientos y posibles complicaciones. La estructura y organización del código parecen ser excelentes, con comentarios detallados y una clara estructuración. La funcionalidad y exactitud del código son perfectas, cumpliendo con todos los requerimientos del problema. Además, se utilizaron estrategias avanzadas y eficientes, justificadas adecuadamente en el contexto del problema."
+  },
+  {
+    "numero": 20,
+    "nombre": "Indart Mateo",
+    "resolucion": "- https://github.com/MateoUYs/t - \"Al resolver el Desafío 4, me resultó un poco confuso cómo calcular el promedio con listas, pero lo resolví usando sum(lista) / len(lista). Para la nota más baja y más alta usé min() y max() respectivamente. Elegí el Desafío 2 porque quería practicar cómo ordenar sin modificar la lista original. Usé sorted() para crear una copia ordenada, y eso resolvió el problema sin alterar el inventario inicial.\"",
+    "calificacion": {
+      "total": 20,
+      "detalle": {
+        "comprension": 8,
+        "estructura": 4,
+        "funcionalidad": 4,
+        "estrategias": 4
+      }
+    },
+    "comentarios": "La resolución fue referenciada a través de un enlace, por lo que no se puede evaluar el código directamente. Sin embargo, la explicación proporcionada indica una buena comprensión del problema, especialmente en el uso de funciones como sum(), len(), min(), max(), y sorted(). La estructura y organización del código no pueden ser evaluadas completamente sin el código visible, pero la explicación sugiere un uso adecuado de estrategias y eficiencia en la solución de los problemas planteados."
+  },
+  {
+    "numero": 21,
+    "nombre": "Laclau Federico",
+    "resolucion": "- https://github.com/efralc/tarea3.7arreglos - \"En el Desafío 4 calculé el promedio usando sum() y len(), y encontré la nota más baja y alta con min() y max(). Esto me ayudó a practicar funciones básicas para manipular listas numéricas. Opté por trabajar con el desafío de gestión del stock de la verdulería. Usé len() para contar productos en el inventario y accedí a elementos por índice para responder las preguntas.\"",
+    "calificacion": {
+      "total": 15,
+      "detalle": {
+        "comprension": 4,
+        "estructura": 3,
+        "funcionalidad": 4,
+        "estrategia": 4
+      }
+    },
+    "comentarios": "La resolución fue referenciada a través de un enlace, por lo que no se puede evaluar el código directamente. Sin embargo, se describe el uso de funciones básicas como sum(), len(), min(), y max() para manipular listas numéricas, lo cual indica una comprensión general del problema, aunque no se detalla cómo se aplicaron específicamente a los requerimientos del desafío. La estructura y organización del código no pueden ser evaluadas sin acceso directo al mismo. La funcionalidad parece adecuada según la descripción, pero no se puede verificar completamente. Las estrategias utilizadas son básicas pero adecuadas para el contexto descrito."
+  },
+  {
+    "numero": 22,
+    "nombre": "Machado Belén",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 23,
+    "nombre": "Mallo Fiorella",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 24,
+    "nombre": "Marcelino Luis",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 25,
+    "nombre": "Mendoza Daniel",
+    "resolucion": "- \"Me costó un poco entender cómo se manejan las variables y los tipos de datos en Python... Decidí que lo mejor es elegir una manera de programar y seguir siempre ese estilo. Durante estas clases fuimos trabajando con variables, cadenas, listas, arrays, diccionarios. También aprendimos a sacar promedios, máximos y mínimos o trabajar con muchas notas al mismo tiempo. En resumen, Python es poderoso y flexible, pero hay que tener cuidado de no perderse en tantas opciones.\" - Enlace: https://github.com/DanielCarmelo/cdevs.git",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 1,
+        "estructura": 1,
+        "funcionalidad": 1,
+        "estrategias": 1
+      }
+    },
+    "comentarios": "La resolución no contiene una entrega válida de código. Solo se proporciona un enlace a un repositorio de GitHub, lo que indica que el código fue referenciado pero no incluido directamente en la resolución. No se puede evaluar la comprensión del problema, la estructura del código, la funcionalidad ni el uso de estrategias sin acceso directo al código."
+  },
+  {
+    "numero": 26,
+    "nombre": "Mora Santino",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 27,
+    "nombre": "Moreira Rodrigo",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 28,
+    "nombre": "Oliver Laura",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 29,
+    "nombre": "Olivera Ana",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 30,
+    "nombre": "Olivera Yeny",
+    "resolucion": "- \"Archivo3_7_Arreglos_1.ipynb 17 KB\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension_problema": 0,
+        "estructura_organizacion": 0,
+        "funcionalidad_exactitud": 0,
+        "uso_estrategias_eficiencia": 0
+      }
+    },
+    "comentarios": "La resolución no contiene una entrega válida de código o solución al problema. Solo se menciona un archivo sin contenido evaluable."
+  },
+  {
+    "numero": 31,
+    "nombre": "Peluffo Sofia",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 32,
+    "nombre": "Ramos Carolina",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 33,
+    "nombre": "Reyes Lorena",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 34,
+    "nombre": "Rodriguez Maria",
+    "resolucion": "- https://github.com/Faby24/desaf-o-verduler-a/blob/main/3_7_Arreglos%20copia.ipynb - https://github.com/Faby24/desafio4_preg1y2/blob/main/Desafio4_preg1y2.ipynb - \"Durante el desafío lo que me costó al principio fue recordar que en Python los índices empiezan en 0, algo importante para ubicar correctamente los elementos dentro del arreglo, especialmente en la pregunta sobre la tercera posición.\"",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension_problema": 0,
+        "estructura_organizacion": 0,
+        "funcionalidad_exactitud": 0,
+        "uso_estrategias_eficiencia": 0
+      }
+    },
+    "comentarios": "La resolución solo contiene enlaces a repositorios de GitHub, sin incluir el código directamente en la entrega. No se puede evaluar la comprensión del problema, la estructura y organización del código, la funcionalidad y exactitud, ni el uso de estrategias y eficiencia sin acceso al contenido de los enlaces proporcionados."
+  },
+  {
+    "numero": 35,
+    "nombre": "Rodriguez Nicolas",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 36,
+    "nombre": "Rossi Pedro",
+    "resolucion": "- https://github.com/pedrok1218/Programacion-1 - \"Un reto fue decidir cómo manejar el espacio limitado del inventario, ya que solo se podían mantener 7 productos y a su vez tenia que alterar el inventario agregando y quitando productos. Pero con el cuaderno aportado por el profe y los métodos que se encuentran ahí (remove, pop, sort, etc) pude realizarlo. Utilicé len() para contar la cantidad total de productos en la lista del inventario, luego removí bananas con remove, luego utilicé extend para agregar varios productos al inventario, eliminé el primer producto con pop(0) y agregué uno nuevo con append, luego use sort para ordenar todo y por último utilicé copy para entregarle una copia del inventario a mi compañero ya que si este la cambia la original no se ve afectada.\"",
+    "calificacion": {
+      "total": 18,
+      "detalle": {
+        "comprension": 6,
+        "estructura": 3,
+        "funcionalidad": 4,
+        "estrategias": 3
+      }
+    },
+    "comentarios": "La resolución fue referenciada a través de un enlace, por lo que no se puede evaluar el código directamente. Sin embargo, la descripción indica un entendimiento general del problema, aunque no se detalla completamente. La estructura y organización del código no pueden ser evaluadas sin acceso al código, pero la descripción sugiere una organización básica. La funcionalidad parece adecuada, pero sin el código, no se puede verificar completamente. Las estrategias utilizadas son básicas y adecuadas, pero no se justifican en profundidad."
+  },
+  {
+    "numero": 37,
+    "nombre": "Samurio Ruben",
+    "resolucion": "- https://github.com/ruben-samurio/Arrareglo_programaci-n - \"Estuve creando una lista con las notas con ayuda de len() y dividi la suma entre la cantidad de notas que use para sacar el promedio y lo mostre en pantalla redondeado con round. Para la Verdulería use una lista para guardar productos, después con len() contamos cuántos hay, agregamos uno nuevo con append() y lo mostramos y al final imprimimos todo el stock.\"",
+    "calificacion": {
+      "total": 10,
+      "detalle": {
+        "comprension_problema": 4,
+        "estructura_organizacion": 3,
+        "funcionalidad_exactitud": 3,
+        "uso_estrategias_eficiencia": 0
+      }
+    },
+    "comentarios": "La resolución solo contiene una referencia a un repositorio de GitHub, sin incluir el código directamente en la entrega. No se puede evaluar la comprensión del problema, la estructura, la funcionalidad ni la eficiencia del código sin acceso al contenido del enlace. Se requiere que el código esté incluido en la entrega para una evaluación completa."
+  },
+  {
+    "numero": 38,
+    "nombre": "Sobrera Gerardo",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 39,
+    "nombre": "Soto en crea",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 40,
+    "nombre": "Taroco Martin",
+    "resolucion": "- https://github.com/MartinTaroco/Desafios-Profesorado/blob/main/Listas.py - https://github.com/MartinTaroco/Desafios-Profesorado/blob/main/verduleria.py - \"Para solucionar utilize los métodos que se encuentran el cuaderno que subio el profesor (append, remove, sort, etc), también utilize tres funciones integradas que son muy utiles que fueron sum(), max() y min(), te informan de la suma de los elementos de la lista, el elemento máximo de la lista y el mínimo respectivamente.\"",
+    "calificacion": {
+      "total": 12,
+      "detalle": {
+        "comprension": 4,
+        "estructura": 3,
+        "funcionalidad": 3,
+        "estrategias": 2
+      }
+    },
+    "comentarios": "La resolución contiene enlaces a repositorios de GitHub, lo que indica que el código fue referenciado y no incluido directamente en la entrega. La comprensión del problema es adecuada, pero no se proporciona suficiente información para evaluar completamente la comprensión de los requerimientos y detalles. La estructura y organización del código no pueden ser evaluadas completamente debido a la falta de acceso directo al código, pero la descripción sugiere una organización básica. La funcionalidad y exactitud no pueden ser evaluadas completamente sin acceso al código, pero la descripción sugiere un uso básico de funciones integradas. Las estrategias utilizadas parecen ser básicas y no se proporciona justificación suficiente para su elección."
+  },
+  {
+    "numero": 41,
+    "nombre": "Viazzi Andrea",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 42,
+    "nombre": "Viera Stefanie",
+    "resolucion": "no realiza",
+    "calificacion": {
+      "total": 0,
+      "detalle": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "comentarios": "No realiza. Lo usaremos como plantilla."
+  },
+  {
+    "numero": 43,
+    "nombre": "Viviano Juan",
+    "resolucion": "- \"Hola profesor como le va, bueno aca queda mi tarea echa. Espero que le guste, cualquier cosa a las ordenes\" - Enlace a notebook: https://github.com/Juanviviano/Progrmacion/blob/master/3_7_Arreglos%20Juan%20Viviano.ipynb",
+    "calificacion": {
+      "total": 0,
+      "detalle": {
+        "comprension": 0,
+        "estructura": 0,
+        "funcionalidad": 0,
+        "estrategias": 0
+      }
+    },
+    "comentarios": "La resolución no contiene una entrega válida de código, solo un enlace a un repositorio externo. No se puede evaluar el contenido del código ya que no está incluido directamente en la resolución."
+  }
+]
